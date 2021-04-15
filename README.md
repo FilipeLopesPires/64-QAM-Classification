@@ -1,6 +1,11 @@
 # 64-QAM Classification
 Optical Communications: 64-QAM Classification with Neural Networks
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Made%20with-MATLAB-orange)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description 
 
 This project provides an overview of a Machine Learning (ML) approach for dealing with the interferences present in the optical communication channels.
